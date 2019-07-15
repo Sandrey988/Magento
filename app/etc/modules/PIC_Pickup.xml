@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <PIC_Pickup>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Adminhtml />
+                <Mage_Payment />
+            </depends>
+        </PIC_Pickup>
+    </modules>
+</config>
